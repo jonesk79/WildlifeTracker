@@ -1,0 +1,8 @@
+
+development:
+  adapter: postgresql
+  database: trees_development
+
+test:
+  adapter: postgresql
+  database: trees_test
